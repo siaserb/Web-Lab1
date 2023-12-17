@@ -5,11 +5,11 @@ body {
   }
 
   .main-container {
-    width: 50%;
+    width: 80%;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
-    height: 650px;
+    height: 700px;
   }
 
   .text-block {
@@ -21,7 +21,7 @@ body {
   }
 
   .image-block {
-    flex: 1.12;
+    flex: 1.5;
     background-color: #99CC99;
     overflow: hidden;
   }
